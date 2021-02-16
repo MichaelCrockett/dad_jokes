@@ -1,7 +1,7 @@
 <template lang="html">
   <div class="">
-    <h1>About this DadJokes</h1>
-    <p>This is an app that displays corny dad jokes</p>
+    <h1>About this app</h1>
+    <p>This is an app that has a searchable database of some tremendous Dad Jokes</p>
   </div>
 </template>
 
