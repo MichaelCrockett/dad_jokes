@@ -17,9 +17,9 @@ export default {
           content: 'Best place for corny dad jokes'
         }
       ]
-    }
+    };
   }
-}
+};
 </script>
 
 <style lang="css" scoped>
