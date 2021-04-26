@@ -1,4 +1,8 @@
-# dadjokes
+# Dad Jokes
+
+Dad jokes is a searchable database of some truly tremendous (or truly terrible, depending on your point of view) Dad Jokes, using Vue.js, Nuxt.js and local CSS styling.
+
+Jokes are fetched from https://icanhazdadjoke.com/api
 
 ## Build Setup
 
